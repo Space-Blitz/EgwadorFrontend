@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Egwador frontend Portal
+
+Egwador is a business management portal.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
